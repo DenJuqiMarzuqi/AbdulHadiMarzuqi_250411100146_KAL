@@ -1,11 +1,8 @@
-# Welcome to your Jupyter Book
+# **PROFIL SAYA**
+## **ABDUL HADI MARZUQI (25-146)**
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
-
-Check out the content pages bundled with this sample book to see more.
+Perkenalkan saya Abdul Hadi Marzuqi dengan NIM 25-146. Saya merupakan  mahasiswa Universitas Trunodjoyo Madura dari prodi teknik informatika.<br>
+Tujuan website statis ini dibuat adalah untuk arsip mengenai hasil resume, tugas dan pembelajaran mata kuliah KAL (Komputasi Aljabar Linear).
 
 ```{tableofcontents}
 ```
