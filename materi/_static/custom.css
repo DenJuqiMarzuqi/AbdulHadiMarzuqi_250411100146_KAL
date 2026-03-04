@@ -1,0 +1,8 @@
+.logo img, img.logo, .logo__image {
+    border-radius: 50% !important;
+    width: 160px !important;
+    height: 160px !important;
+    object-fit: cover !important;
+    margin: 0 auto !important;
+    display: block !important;
+}
