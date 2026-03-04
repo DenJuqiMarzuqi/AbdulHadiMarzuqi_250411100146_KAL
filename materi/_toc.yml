@@ -6,3 +6,4 @@ root: intro
 chapters:
 - file: OperasiBarisElementerPadaMatriks
 - file: SistemPersamaanLinear
+- file: TugasPenyelesaianSPLDenganGeussian
